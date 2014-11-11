@@ -1,4 +1,4 @@
-=== PageView ===
+=== TransizRoutes ===
 Contributors: Transiz
 Tags: routes, transport, cargo, embed, iframe, transiz
 Requires at least: 2.5

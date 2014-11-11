@@ -9,7 +9,7 @@ Easily integrate your trucks and loads offers on your website in just no time.
 
 == Description ==
 
-Are you a freight/transport company or a logistic organisation? Do you need to provide your online users with the latest offers?
+Are you a freight/transport company or a logistics organisation? Do you need to provide your online users with the latest offers?
 Transiz Routes is a plugin that will display the routes posted by a company on the freight exchange site http://www.transiz.com.
 
 To use:

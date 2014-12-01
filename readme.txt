@@ -14,7 +14,7 @@ Transiz Routes is a plugin that will display the routes posted by a company on t
 
 To use:
 
-`[transizroutes company=1234]`
+`[transizroutes]`
 
 Optional arguments:
 

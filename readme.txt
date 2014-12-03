@@ -32,7 +32,7 @@ The plugin is simple to install:
 1. Unzip
 1. Upload `transizroutes` directory to your `/wp-content/plugins` directory
 1. Go to the plugin management page and enable the plugin
-1. Place `[transizroutes company=1234]` in your templates
+1. Place `[transizroutes company]` in your templates
 
 == Screenshots ==
 

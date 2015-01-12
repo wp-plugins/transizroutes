@@ -14,7 +14,8 @@ Transiz Routes is a plugin that will display the routes posted by a company on t
 
 To use:
 
-`[transizroutes]`
+`[transizroutes] //shows all the offers from Transiz`
+`[transizroutes company=%company_id%] //only shows the offers of your company`
 
 Optional arguments:
 
@@ -32,7 +33,7 @@ The plugin is simple to install:
 1. Unzip
 1. Upload `transizroutes` directory to your `/wp-content/plugins` directory
 1. Go to the plugin management page and enable the plugin
-1. Place `[transizroutes company]` in your templates
+1. Place `[transizroutes]` or `[transizroutes company=%company_id%]` in your templates
 
 == Screenshots ==
 

@@ -2,7 +2,7 @@
 Contributors: Transiz
 Tags: plugin, transport, freight, cargo, load, logistics, route, trucks, truckload, carrier, transporter, shipping, auto, forwarder, transiz
 Requires at least: 2.5
-Tested up to: 4.0
+Tested up to: 4.2.2
 Stable tag: trunk
 
 Easily integrate your trucks and loads offers on your website in just no time.
